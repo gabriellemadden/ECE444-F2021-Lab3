@@ -21,6 +21,17 @@ _Last Part_
 ![4](https://github.com/gabriellemadden/ECE444-F2021-Lab3/blob/main/activity-proofs/4.png?raw=true)
 
 
+## Activity 5
+Functional Requirement: Course information about specific classes is displayed.
+
+Improvement: Currently, this feature is available but in a very cramped, not obvious tabular form that makes it difficult to differentiate between pieces of information. The table needs formatting to make this much easier to understand. For example, the headers of the below table from Location to Delivery Mode are all squished together and should be spaced apart and separated with dividers.
+
+![5a](https://github.com/gabriellemadden/ECE444-F2021-Lab3/blob/main/activity-proofs/5a.png?raw=true)
+
+
+Non-functional Requirement: The user can specify one of Division, Department, or Campus to filter out courses. This is very rudimentary. I would like to add more course information to filter by and possibly allow the combinations of filters as well, so that users can develop searches that are very specific to their needs. Things students may want to filter by include time offered, majors, number of prerequisites, mode of delivery, etc.
+
+
 # CARTE Education Pathways
 
 ## Description
