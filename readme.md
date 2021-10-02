@@ -2,6 +2,24 @@ Gabrielle Madden
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+## Activity 1
+![1](https://github.com/gabriellemadden/ECE444-F2021-Lab3/blob/main/activity-proofs/1.png?raw=true)
+
+## Activity 2
+![2](https://github.com/gabriellemadden/ECE444-F2021-Lab3/blob/main/activity-proofs/2.png?raw=true)
+
+## Activity 3
+See the entire docker build log [here](https://github.com/gabriellemadden/ECE444-F2021-Lab3/blob/main/activity-proofs/docker-build-log.txt)
+
+_First Part_
+![3a](https://github.com/gabriellemadden/ECE444-F2021-Lab3/blob/main/activity-proofs/3a.png?raw=true)
+
+_Last Part_
+![3b](https://github.com/gabriellemadden/ECE444-F2021-Lab3/blob/main/activity-proofs/3b.png?raw=true)
+
+## Activity 4
+![4](https://github.com/gabriellemadden/ECE444-F2021-Lab3/blob/main/activity-proofs/4.png?raw=true)
+
 
 # CARTE Education Pathways
 
